@@ -1,1 +1,1 @@
-You may do whatever you want with my creations, I simply don't care!
+You may do whatever you want with my creations, I simply don't care!.
