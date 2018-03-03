@@ -1,1 +1,0 @@
-You may do whatever you want with my creations I don't give a sh*t!
