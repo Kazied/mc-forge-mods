@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/firstjoin.iml" filepath="$PROJECT_DIR$/firstjoin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/firstjoin_api.iml" filepath="$PROJECT_DIR$/.idea/modules/firstjoin_api.iml" group="firstjoin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/firstjoin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/firstjoin_main.iml" group="firstjoin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/firstjoin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/firstjoin_test.iml" group="firstjoin" />
+    </modules>
+  </component>
+</project>
