@@ -1,8 +1,8 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "firstjoin",
+  "name": "First Join",
+  "description": "This mod makes an announcement whenever a player joins for the first time!",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",

@@ -1,2 +1,2 @@
-This mod will make an announcment whenever a player joins for the first time!
 (NOT WORKING YET)
+This mod will make an announcement whenever a player joins for the first time!
